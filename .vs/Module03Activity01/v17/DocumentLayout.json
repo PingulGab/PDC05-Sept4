@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\PDC05\\Module03Activity01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|c:\\repos\\pdc05\\module03activity01\\module03activity01\\resources\\styles\\windowsresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|solutionrelative:module03activity01\\resources\\styles\\windowsresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|c:\\repos\\pdc05\\module03activity01\\module03activity01\\view\\offlinepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|solutionrelative:module03activity01\\view\\offlinepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|c:\\repos\\pdc05\\module03activity01\\module03activity01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|solutionrelative:module03activity01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|c:\\repos\\pdc05\\module03activity01\\module03activity01\\resources\\styles\\androidresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|solutionrelative:module03activity01\\resources\\styles\\androidresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|c:\\repos\\pdc05\\module03activity01\\module03activity01\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|solutionrelative:module03activity01\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|c:\\repos\\pdc05\\module03activity01\\module03activity01\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E64E969-3BFD-43CC-AD26-97D09C37644D}|Module03Activity01\\Module03Activity01.csproj|solutionrelative:module03activity01\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OfflinePage.xaml",
+              "DocumentMoniker": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\View\\OfflinePage.xaml",
+              "RelativeDocumentMoniker": "Module03Activity01\\View\\OfflinePage.xaml",
+              "ToolTip": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\View\\OfflinePage.xaml",
+              "RelativeToolTip": "Module03Activity01\\View\\OfflinePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T01:31:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsResources.xaml",
+              "DocumentMoniker": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\Resources\\Styles\\WindowsResources.xaml",
+              "RelativeDocumentMoniker": "Module03Activity01\\Resources\\Styles\\WindowsResources.xaml",
+              "ToolTip": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\Resources\\Styles\\WindowsResources.xaml",
+              "RelativeToolTip": "Module03Activity01\\Resources\\Styles\\WindowsResources.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T01:21:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AndroidResources.xaml",
+              "DocumentMoniker": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\Resources\\Styles\\AndroidResources.xaml",
+              "RelativeDocumentMoniker": "Module03Activity01\\Resources\\Styles\\AndroidResources.xaml",
+              "ToolTip": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\Resources\\Styles\\AndroidResources.xaml",
+              "RelativeToolTip": "Module03Activity01\\Resources\\Styles\\AndroidResources.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T01:21:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Module03Activity01\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Module03Activity01\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T01:19:42.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Module03Activity01\\AppShell.xaml",
+              "ToolTip": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\AppShell.xaml",
+              "RelativeToolTip": "Module03Activity01\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T00:37:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Module03Activity01\\App.xaml.cs",
+              "ToolTip": "C:\\repos\\PDC05\\Module03Activity01\\Module03Activity01\\App.xaml.cs",
+              "RelativeToolTip": "Module03Activity01\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:34:08.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Module03Activity01
+build_property.ProjectDir = C:\repos\PDC05\Module03Activity01\Module03Activity01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/Resources/Styles/AndroidResources.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.Resources.Styles.AndroidResources.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AndroidResources.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AndroidResources.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/Resources/Styles/WindowsResources.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.Resources.Styles.WindowsResources.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\WindowsResources.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\WindowsResources.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/View/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.View.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Dashboard.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/View/OfflinePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.View.OfflinePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\OfflinePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\OfflinePage.xaml
+
+[C:/repos/PDC05/Module03Activity01/Module03Activity01/View/StartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Module03Activity01.View.StartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\StartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\StartPage.xaml
